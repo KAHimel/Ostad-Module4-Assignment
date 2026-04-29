@@ -59,27 +59,6 @@ This project was built to practice and demonstrate:
 
 ---
 
-### Sample Output:
-
-===== Module 4 Assignment =====
-
-Student Name: Himel
-Roll: 101
-
-------------------
-
-Teacher Name: Mr. Rahman
-Subject: Math
-
-------------------
-
-Circle Radius: 5.0
-Circle Area: 78.54
-
-------------------
-
----
-
 ## 🧩 OOP Concepts Used
 
 | Concept        | Used |
